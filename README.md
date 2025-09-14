@@ -31,9 +31,5 @@
 - `Whisper_speech.ipynb` → транскрибация аудио в текст.  
 - `Sentiment_NER_speech.ipynb` → анализ текста (NER + Sentiment).  
 
-## 🔧 Установка  
-```bash
-git clone https://github.com/username/speech-sentiment-ner.git
-cd speech-sentiment-ner
-pip install -r requirements.txt
+
 
